@@ -1,4 +1,4 @@
-module gitmod
+module github.com/DrLoxin/gitmod
 
 go 1.12
 
